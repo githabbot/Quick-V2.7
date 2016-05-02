@@ -30,7 +30,3 @@ return {
   },
   run = run,
 }
---I'm Not Sure WoRks Or NOT!
---IT HAS A BUG THAT EVERYONE CAN BLOCK USERS [EVERYONE]
-    --https://github.com/ThisIsArman
-    --Telegram.me/ThisIsArman
