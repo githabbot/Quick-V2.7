@@ -24,7 +24,7 @@ local function run(msg,matches)
     end
     if matches[1] == "photo" or matches[1] == "photo"or matches[1] == "عکس" or matches[1] == "عکس کن" and is_momod(msg) then
     	redis:set("sticker:photo", "waiting")
-    	return 'Please send your sticker now @QuickGuardTEAM'
+    	return 'Please send your sticker now @boomrange_helper'
     end
 end
 return {
