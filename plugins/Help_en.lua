@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'QuickTeam Command List'.. [[
+  return 'boomrange Command List'.. [[
 ________________________________
 --------------------------------
 _______In the name of Allah_______
