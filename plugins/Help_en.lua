@@ -76,9 +76,9 @@ ________________________________
 6.!share  شماره ربات سیو کنید و یک پیام پی وی ارسال کنید
 ________________________________
 V 2.7 en
-channel @QuickGuardTEAM
-other bot  @QuickGuardw_bot
-for PM   @QuickGuardBOT]]
+sudo @xXDangerXx
+other bot  @boomrange_bot
+for PM   @xXDangerXx_bot]]
 end
 
 return {
