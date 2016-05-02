@@ -1,5 +1,5 @@
 local function run(msg, matches)
-local amir = 112392827
+local danger = 195473011
   local hash = 'rank:variables'
   local text = ''
     local value = redis:hget(hash, msg.from.id)
