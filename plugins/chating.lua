@@ -3,7 +3,7 @@ if msg.text == "ممنون" then
 	return "خواهش میکنم"
 end
 if msg.text == "گروه چنده؟" then
-	return " az babam beprsid @amirquick"
+	return " az babam beprsid @xXDangerXx"
 end
 if msg.text == "چرا" then
 	return "چون چ چسبیده به را"
@@ -38,7 +38,7 @@ end
 if msg.text == "bk" then
 	return "be kiram ke be kiret"
 end
-if msg.text == "quick" then
+if msg.text == "boomrange" then
 	return "جانم"
 end
 if msg.text == "خوبی؟" then
@@ -47,14 +47,11 @@ end
 if msg.text == "تبلیغ" then
 	return "تبلیغ مساوی سوپر بن حتی شما دوست عزیز"
 end
-if msg.text == "کویک بکنش" then
+if msg.text == "بومرنگ بکنش " then
 	return "ببن چاقال میکنمتا افتاد؟"
 end
 if msg.text == "سیکتیر" then
 	return "سیک اگه تیر داشت ننت الان جانباز بود"
-end
-if msg.text == "چنل" then
-	return "@QuickGuardTEAM  کانال کویک گارد "
 end
 if msg.text == "عجب" then
 	return "کیر رجب "
@@ -65,7 +62,7 @@ end
 if msg.text == "سلام" then
 	return "علیـک"
 end
-if msg.text == "امیر کویک کیه؟" then
+if msg.text == "طاها دنجر کیه؟" then
 	return "بابامهههه"
 end
 if msg.text == "slm" then
@@ -83,10 +80,10 @@ end
 if msg.text == "خدافظ" then
 	return "Bye Bye"
 end
-if msg.text == "amir" then
+if msg.text == "danger" then
 	return "چیکار داری بابامو؟"
 end
-if msg.text == "امیر" then
+if msg.text == "دنجر" then
 	return "چیکار داری بابامو؟"
 end
 end
@@ -102,9 +99,9 @@ return {
 		"^xy$",
 		"^[Zz]ac$",
 		"^سلام$",
-		"^quick$",
+		"^boomrange$",
 		"^bk$",
-		"^کویک بکنش$",
+	 "^boomrange $",
      	"^کیر$",
      	"^کص نگو$",
      	"^سیکتیر$",	
@@ -112,12 +109,11 @@ return {
      	"^یه جک بگو؟$",
      	"^چرا$",
 		"^چطوری؟$",
-		"^چنل$",
 		"^عجب$",
 		"^خوبی؟$",
 		"^[Ss]alam$",
 		"^amir",
-		"^امیر",
+		"^دنجر",
 		"^خدافظ$",
 		"^بای$",
 		"^[Ss]lm$",
