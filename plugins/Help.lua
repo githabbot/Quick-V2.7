@@ -108,7 +108,7 @@ local function telegram_help()
   end
   text = text..'______________________________'
   text = text..'\n'..'You can use < helps > for view all items info or can use < help (name) > for view a item info'
-  text = text..'\n'..'Sudo: @AmirQuick Channel: @QuickGuardTEAM'
+  text = text..'\n'..'Sudo: @xXDangerXx'
   return text
 end
  
