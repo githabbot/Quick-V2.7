@@ -5,7 +5,7 @@
  +     return "Chat Upgraded to SuperGroups"
  +   end
  +end
- + --create by RoyalTeam ID CHANNEL : @xXDangerXx
+ + --create by  @xXDangerXx
  + return {
  +   patterns = {
  +"^[!/#](tosuper)$",
