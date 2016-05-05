@@ -32,8 +32,8 @@ end
 if msg.text == "zac" then
 	return "Nagaeedim"
 end
-if msg.text == "Zac" then
-	return "Nagaeedim"
+if msg.text == "کرسد" then
+	return "چکار داری بابامو؟"
 end
 if msg.text == "bk" then
 	return "be kiram ke be kiret"
@@ -41,20 +41,20 @@ end
 if msg.text == "boomrange" then
 	return "جانم"
 end
-if msg.text == "خوبی؟" then
-	return "مرسی تو خوبی؟"
+if msg.text == "بومرنگ" then
+	return "جانم عزیزم؟"
 end
 if msg.text == "تبلیغ" then
 	return "تبلیغ مساوی سوپر بن حتی شما دوست عزیز"
 end
-if msg.text == "بومرنگ بکنش " then
+if msg.text == "بومرنگ بکنش" then
 	return "ببن چاقال میکنمتا افتاد؟"
 end
 if msg.text == "سیکتیر" then
 	return "سیک اگه تیر داشت ننت الان جانباز بود"
 end
-if msg.text == "عجب" then
-	return "کیر رجب "
+if msg.text == "سناتور" then
+	return "کی با رفیقم کار داره؟"
 end
 if msg.text == "چطوری؟" then
 	return "مگه تو دکتری؟"
@@ -109,10 +109,10 @@ return {
      	"^یه جک بگو؟$",
      	"^چرا$",
 		"^چطوری؟$",
-		"^عجب$",
-		"^خوبی؟$",
+		"^سناتور$",
+		"^کرسد$",
 		"^[Ss]alam$",
-		"^amir",
+		"^بومرنگ",
 		"^دنجر",
 		"^خدافظ$",
 		"^بای$",
